@@ -22,25 +22,26 @@
 </template>
 
 <script>
-  export default {
-    name: "Form",
-    data () {
-      return {
-        name: '',
-        country: '',
-        year: 0
+export default {
+  name: 'Form',
+  data () {
+    return {
+      name: '',
+      country: '',
+      year: 0
+    }
+  },
+  methods: {
+    submit: function (e) {
+      if (this.name !== '' && this.country !== '' && this.year !== 0) {
+        alert('TV station name: ' + this.name +
+          '\nTV station country: ' + this.country +
+          '\nTV station launch year: ' + this.year)
       }
-    },
-    methods: {
-      submit: function (e) {
-        if (this.name !== '' && this.country !== '' && this.year !== 0)
-          alert("TV station name: " + this.name +
-            "\nTV station country: " + this.country +
-            "\nTV station launch year: " + this.year);
-        e.preventDefault();
-      }
+      e.preventDefault()
     }
   }
+}
 </script>
 
 <style scoped>
