@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "name": "Fernsehsender Paul Nipkow",
+    "country": "Germany",
+    "lYear": 1935,
+    "dYear": 1944
+  },
+  {
+    "id": 2,
+    "name": "TF1",
+    "country": "France",
+    "lYear": 1935,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 3,
+    "name": "BBC London",
+    "country": "United Kingdom",
+    "lYear": 1936,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 4,
+    "name": "BBC One",
+    "country": "United Kingdom",
+    "lYear": 1936,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 5,
+    "name": "Petersburg - Channel 5",
+    "country": "Russia",
+    "lYear": 1938,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 6,
+    "name": "Soviet Central Television",
+    "country": "Soviet Union (Russia)",
+    "lYear": 1938,
+    "dYear": 1991
+  },
+  {
+    "id": 7,
+    "name": "British Forces Broadcasting Service",
+    "country": "United Kingdom",
+    "lYear": 1943,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 8,
+    "name": "DuMont Television Network",
+    "country": "United States of America",
+    "lYear": 1946,
+    "dYear": 1956
+  },
+  {
+    "id": 9,
+    "name": "Südwestfunk",
+    "country": "Germany",
+    "lYear": 1946,
+    "dYear": 1998
+  },
+  {
+    "id": 10,
+    "name": "Paramount Television Network",
+    "country": "United States of America",
+    "lYear": 1948,
+    "dYear": 1956
+  },
+  {
+    "id": 11,
+    "name": "Bayerischer Rundfunk",
+    "country": "Germany",
+    "lYear": 1949,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 12,
+    "name": "BBC West Midlands",
+    "country": "United Kingdom",
+    "lYear": 1949,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 13,
+    "name": "Radiodiffusion-Télévision Française",
+    "country": "France",
+    "lYear": 1949,
+    "dYear": 1964
+  },
+  {
+    "id": 14,
+    "name": "CMQ",
+    "country": "Cuba",
+    "lYear": 1950,
+    "dYear": 1959
+  },
+  {
+    "id": 15,
+    "name": "Cuban Institute of Radio and Television",
+    "country": "Cuba",
+    "lYear": 1950,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 16,
+    "name": "Cubavisión",
+    "country": "Cuba",
+    "lYear": 1950,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 17,
+    "name": "France 3 Nord-Pas-de-Calais",
+    "country": "France",
+    "lYear": 1950,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 18,
+    "name": "France 3 Picardie",
+    "country": "France",
+    "lYear": 1950,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 19,
+    "name": "Rede Tupi",
+    "country": "Brazil",
+    "lYear": 1950,
+    "dYear": 1980
+  },
+  {
+    "id": 20,
+    "name": "BBC North",
+    "country": "United Kingdom",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 21,
+    "name": "Canal 5",
+    "country": "Mexico",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 22,
+    "name": "Channel One",
+    "country": "Russia",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 23,
+    "name": "DR",
+    "country": "Denmark",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 24,
+    "name": "DR1",
+    "country": "Denmark",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 25,
+    "name": "Dutch Public Broadcasting System",
+    "country": "Netherlands",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 26,
+    "name": "Las Estrellas",
+    "country": "Mexico",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 27,
+    "name": "NPO 1",
+    "country": "Netherlands",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 28,
+    "name": "Tanzania Broadcasting Corporation",
+    "country": "Tanzania",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 29,
+    "name": "Theater Television Network",
+    "country": "United States of America",
+    "lYear": 1951,
+    "dYear": 1953
+  },
+  {
+    "id": 30,
+    "name": "Televisión Pública Argentina",
+    "country": "Argentina",
+    "lYear": 1951,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 31,
+    "name": "BBC One Scotland",
+    "country": "United Kingdom",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 32,
+    "name": "BBC Scotland",
+    "country": "United Kingdom",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 33,
+    "name": "BBC West",
+    "country": "United Kingdom",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 34,
+    "name": "Corporación Estatal de Radio y Televisión",
+    "country": "Dominican Republic",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 35,
+    "name": "Deutscher Fernsehfunk",
+    "country": "East Germany (Germany)",
+    "lYear": 1952,
+    "dYear": 1991
+  },
+  {
+    "id": 36,
+    "name": "Ici Radio-Canada Télé",
+    "country": "Canada",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 37,
+    "name": "ITU TV",
+    "country": "Turkey",
+    "lYear": 1952,
+    "dYear": 1971
+  },
+  {
+    "id": 38,
+    "name": "National Educational Television",
+    "country": "United States of America",
+    "lYear": 1952,
+    "dYear": 1970
+  },
+  {
+    "id": 39,
+    "name": "Nordwestdeutscher Rundfunk",
+    "country": "Germany",
+    "lYear": 1952,
+    "dYear": 1956
+  },
+  {
+    "id": 40,
+    "name": "Televisora Nacional",
+    "country": "Venezuela",
+    "lYear": 1952,
+    "dYear": 1989
+  },
+  {
+    "id": 41,
+    "name": "Telewizja Polska",
+    "country": "Poland",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 42,
+    "name": "TV Paulista",
+    "country": "Brazil",
+    "lYear": 1952,
+    "dYear": 1966
+  },
+  {
+    "id": 43,
+    "name": "TVP1",
+    "country": "Poland",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 44,
+    "name": "La Voz Dominicana",
+    "country": "Dominican Republic",
+    "lYear": 1952,
+    "dYear": 1961
+  },
+  {
+    "id": 45,
+    "name": "CBC Television",
+    "country": "Canada",
+    "lYear": 1952,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 46,
+    "name": "ABS-CBN",
+    "country": "Philippines",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 47,
+    "name": "BBC North East And Cumbria",
+    "country": "United Kingdom",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 48,
+    "name": "Czechoslovak Television",
+    "country": "Czechoslovakia (Czech Republic)",
+    "lYear": 1953,
+    "dYear": 1992
+  },
+  {
+    "id": 49,
+    "name": "ČT1",
+    "country": "Czech Republic",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 50,
+    "name": "Één",
+    "country": "Belgium",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 51,
+    "name": "France 3 Alsace",
+    "country": "France",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 52,
+    "name": "Korean Central Broadcasting Committee",
+    "country": "North Korea",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 53,
+    "name": "NHK",
+    "country": "Japan",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 54,
+    "name": "NHK General TV",
+    "country": "Japan",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 55,
+    "name": "Nippon TV",
+    "country": "Japan",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 56,
+    "name": "RCTV",
+    "country": "Venezuela",
+    "lYear": 1953,
+    "dYear": 2007
+  },
+  {
+    "id": 57,
+    "name": "RecordTV",
+    "country": "Brazil",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 58,
+    "name": "RTBF",
+    "country": "Belgium",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 59,
+    "name": "Swiss Broadcasting Corporation",
+    "country": "Switzerland",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 60,
+    "name": "Telemeter",
+    "country": "United States of America",
+    "lYear": 1953,
+    "dYear": 1967
+  },
+  {
+    "id": 61,
+    "name": "Telesaar",
+    "country": "Saarland (Germany)",
+    "lYear": 1953,
+    "dYear": 1958
+  },
+  {
+    "id": 62,
+    "name": "Televisa",
+    "country": "Venezuela",
+    "lYear": 1953,
+    "dYear": 1961
+  },
+  {
+    "id": 63,
+    "name": "La Une",
+    "country": "Belgium",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 64,
+    "name": "Vlaamse Radio- en Televisieomroeporganisatie",
+    "country": "Belgium",
+    "lYear": 1953,
+    "dYear": "Ongoing"
+  }
+]
