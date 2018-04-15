@@ -446,5 +446,271 @@
     "country": "Belgium",
     "lYear": 1953,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 65,
+    "name": "BBC South",
+    "country": "United Kingdom",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 66,
+    "name": "BBC South West",
+    "country": "United Kingdom",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 67,
+    "name": "Channel 1",
+    "country": "Colombia",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 68,
+    "name": "Das Erste",
+    "country": "Germany",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 69,
+    "name": "France 3 Provence-Alps",
+    "country": "France",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 70,
+    "name": "France 3 Rhône-Alpes",
+    "country": "France",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 71,
+    "name": "Hanoi Radio Television",
+    "country": "Vietnam",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 72,
+    "name": "Latvijas Televīzija",
+    "country": "Latvia",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 73,
+    "name": "NBC Montana",
+    "country": "United States of America",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 74,
+    "name": "Nebraska Educational Telecommunications",
+    "country": "United States of America",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 75,
+    "name": "NRK",
+    "country": "Norway",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 76,
+    "name": "NRK1",
+    "country": "Norway",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 77,
+    "name": "La Première",
+    "country": "France",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 78,
+    "name": "RTVC Sistema de Medios Públicos",
+    "country": "Colombia",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 79,
+    "name": "RAI",
+    "country": "Italy",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 80,
+    "name": "Rai 1",
+    "country": "Italy",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 81,
+    "name": "RTS Un",
+    "country": "Switzerland",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 82,
+    "name": "Sender Freies Berlin",
+    "country": "Germany",
+    "lYear": 1954,
+    "dYear": 2003
+  },
+  {
+    "id": 83,
+    "name": "TMC",
+    "country": "France/Monaco",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 84,
+    "name": "Telemundo",
+    "country": "United States of America",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 85,
+    "name": "Wisconsin Public Television",
+    "country": "United States of America",
+    "lYear": 1954,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 86,
+    "name": "Alabama Public Television",
+    "country": "United States of America",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 87,
+    "name": "Associated Television",
+    "country": "United Kingdom",
+    "lYear": 1955,
+    "dYear": 1982
+  },
+  {
+    "id": 88,
+    "name": "Associated-Rediffusion",
+    "country": "United Kingdom",
+    "lYear": 1955,
+    "dYear": 1968
+  },
+  {
+    "id": 89,
+    "name": "BBC East",
+    "country": "United Kingdom",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 90,
+    "name": "BBC One Northern Ireland",
+    "country": "United Kingdom",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 91,
+    "name": "CatholicTV",
+    "country": "United States of America",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 92,
+    "name": "Channel 9 MCOT HD",
+    "country": "Thailand",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 93,
+    "name": "Eesti Televisioon",
+    "country": "Estonia",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 94,
+    "name": "ITV Channel",
+    "country": "United Kingdom",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 95,
+    "name": "ITV",
+    "country": "United Kingdom",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 96,
+    "name": "Katholieke Radio Omroep",
+    "country": "Netherlands",
+    "lYear": 1955,
+    "dYear": 2014
+  },
+  {
+    "id": 97,
+    "name": "Northern Television",
+    "country": "Canada",
+    "lYear": 1955,
+    "dYear": 2002
+  },
+  {
+    "id": 98,
+    "name": "ORF eins",
+    "country": "Austria",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 99,
+    "name": "Radiotelevisiun Svizra Rumantscha",
+    "country": "Switzerland",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 100,
+    "name": "RTL9",
+    "country": "Luxembourg",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 101,
+    "name": "TBS Television",
+    "country": "Japan",
+    "lYear": 1955,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 102,
+    "name": "UNC-TV",
+    "country": "United States of America",
+    "lYear": 1955,
+    "dYear": "Ongoing"
   }
 ]
