@@ -712,5 +712,439 @@
     "country": "United States of America",
     "lYear": 1955,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 103,
+    "name": "La 1",
+    "country": "Spain",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 104,
+    "name": "ABC",
+    "country": "Australia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 105,
+    "name": "Asahi Broadcasting Corporation",
+    "country": "Japan",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 106,
+    "name": "Associated British Corporation",
+    "country": "United Kingdom",
+    "lYear": 1956,
+    "dYear": 1968
+  },
+  {
+    "id": 107,
+    "name": "AzTV",
+    "country": "Azerbaijan",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 108,
+    "name": "Belarus-1",
+    "country": "Belarus",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 109,
+    "name": "Channel 10",
+    "country": "Uruguay",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 110,
+    "name": "Chubu-Nippon Broadcasting",
+    "country": "Japan",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 111,
+    "name": "Croatian Radiotelevision",
+    "country": "Croatia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 112,
+    "name": "First Channel",
+    "country": "Georgia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 113,
+    "name": "Georgian Public Broadcasting",
+    "country": "Georgia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 114,
+    "name": "HRT 1",
+    "country": "Croatia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 115,
+    "name": "Hughes Television Network",
+    "country": "United States of America",
+    "lYear": 1956,
+    "dYear": 2013
+  },
+  {
+    "id": 116,
+    "name": "ITV Granada",
+    "country": "United Kingdom",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 117,
+    "name": "Jednotka",
+    "country": "Slovakia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 118,
+    "name": "National State Television and Radio Company of the Republic of Belarus",
+    "country": "Belarus",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 119,
+    "name": "Nine Network",
+    "country": "Australia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 120,
+    "name": "Norddeutscher Rundfunk",
+    "country": "Germany",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 121,
+    "name": "NTA Film Network",
+    "country": "United States of America",
+    "lYear": 1956,
+    "dYear": 1961
+  },
+  {
+    "id": 122,
+    "name": "Oklahoma Educational Television Authority",
+    "country": "United States of America",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 123,
+    "name": "Public Television Company of Armenia",
+    "country": "Armenia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 124,
+    "name": "Rocky Mountain PBS",
+    "country": "United States of America",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 125,
+    "name": "Romanian Television",
+    "country": "Romania",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 126,
+    "name": "Seven Network",
+    "country": "Australia",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 127,
+    "name": "SNRT Radio National",
+    "country": "Morocco",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 128,
+    "name": "Société Nationale de Radiodiffusion et de Télévision",
+    "country": "Morocco",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 129,
+    "name": "Sveriges Radio",
+    "country": "Sweden",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 130,
+    "name": "Sveriges Television",
+    "country": "Sweden",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 131,
+    "name": "SVT1",
+    "country": "Sweden",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 132,
+    "name": "Telenica (Canal 8)",
+    "country": "Nicaragua",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 133,
+    "name": "Télévision Algérienne",
+    "country": "Algeria",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 134,
+    "name": "Televisión Española",
+    "country": "Spain",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 135,
+    "name": "TVP3 Łódź",
+    "country": "Poland",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 136,
+    "name": "TVR1",
+    "country": "Romania",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 137,
+    "name": "Westdeutscher Rundfunk",
+    "country": "Germany",
+    "lYear": 1956,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 138,
+    "name": "Yugoslav Radio Television",
+    "country": "Yugoslavia (Serbia)",
+    "lYear": 1956,
+    "dYear": 1992
+  },
+  {
+    "id": 139,
+    "name": "Asia Television",
+    "country": "Hong Kong",
+    "lYear": 1957,
+    "dYear": 2016
+  },
+  {
+    "id": 140,
+    "name": "ATV Home",
+    "country": "Hong Kong",
+    "lYear": 1957,
+    "dYear": 2016
+  },
+  {
+    "id": 141,
+    "name": "ATV News",
+    "country": "Hong Kong",
+    "lYear": 1957,
+    "dYear": 2016
+  },
+  {
+    "id": 142,
+    "name": "ATV World",
+    "country": "Hong Kong",
+    "lYear": 1957,
+    "dYear": 2016
+  },
+  {
+    "id": 143,
+    "name": "Cyprus Broadcasting Corporation",
+    "country": "Cyprus",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 144,
+    "name": "Hokkaido Broadcasting",
+    "country": "Japan",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 145,
+    "name": "Lithuanian National Radio and Television",
+    "country": "Lithuania",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 146,
+    "name": "LRT Televizija",
+    "country": "Lithuania",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 147,
+    "name": "M1",
+    "country": "Hungary",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 148,
+    "name": "Magyar Televízió",
+    "country": "Hungary",
+    "lYear": 1957,
+    "dYear": 2015
+  },
+  {
+    "id": 149,
+    "name": "MTV3",
+    "country": "Finland",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 150,
+    "name": "Ondas del Lago Televisión",
+    "country": "Venezuela",
+    "lYear": 1957,
+    "dYear": 1957
+  },
+  {
+    "id": 151,
+    "name": "The Oregon Channel",
+    "country": "United States of America",
+    "lYear": 1957,
+    "dYear": 2011
+  },
+  {
+    "id": 152,
+    "name": "Panamericana Televisión",
+    "country": "Peru",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 153,
+    "name": "Rádio e Televisão de Portugal",
+    "country": "Portugal",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 154,
+    "name": "Radio Télévision Guinéenne",
+    "country": "Guinea",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 155,
+    "name": "Rediffusion Television",
+    "country": "Hong Kong",
+    "lYear": 1957,
+    "dYear": 1982
+  },
+  {
+    "id": 156,
+    "name": "RIK 1",
+    "country": "Cyprus",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 157,
+    "name": "Rooms-Katholiek Kerkgenootschap",
+    "country": "Netherlands",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 158,
+    "name": "RTP1",
+    "country": "Portugal",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 159,
+    "name": "Scottish Television",
+    "country": "United Kingdom",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 160,
+    "name": "TV Asahi",
+    "country": "Japan",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 161,
+    "name": "TVP3 Katowice",
+    "country": "Poland",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 162,
+    "name": "TVP3 Poznań",
+    "country": "Poland",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 163,
+    "name": "UCV Television",
+    "country": "Chile",
+    "lYear": 1957,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 164,
+    "name": "VARA",
+    "country": "Netherlands",
+    "lYear": 1957,
+    "dYear": 2014
   }
 ]
