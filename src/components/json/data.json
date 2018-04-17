@@ -1146,5 +1146,502 @@
     "country": "Netherlands",
     "lYear": 1957,
     "dYear": 2014
+  },
+  {
+    "id": 165,
+    "name": "América Televisión",
+    "country": "Peru",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 166,
+    "name": "Badger Television Network",
+    "country": "United States of America",
+    "lYear": 1958,
+    "dYear": 1958
+  },
+  {
+    "id": 167,
+    "name": "Broadcasting System of Niigata",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 168,
+    "name": "CCTV-1",
+    "country": "China",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 169,
+    "name": "China Central Television",
+    "country": "China",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 170,
+    "name": "Heilongjiang Television Station",
+    "country": "China",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 171,
+    "name": "Hokuriku Broadcasting Company",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 172,
+    "name": "Islamic Republic of Iran Broadcasting",
+    "country": "Iran",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 173,
+    "name": "Kansai Telecasting Corporation",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 174,
+    "name": "Kyrgyz Television",
+    "country": "Kyrgyzstan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 175,
+    "name": "Moldova 1",
+    "country": "Moldova",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 176,
+    "name": "Nankai Broadcasting",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 177,
+    "name": "Nishinippon Broadcasting",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 178,
+    "name": "Oita Broadcasting System",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 179,
+    "name": "Qazaqstan",
+    "country": "Kazakhstan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 180,
+    "name": "Qazaqstan Radio and Television Corporation",
+    "country": "Kazakhstan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 181,
+    "name": "Radio Television of Serbia",
+    "country": "Serbia",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 182,
+    "name": "Radio Valencia Televisión",
+    "country": "Venezuela",
+    "lYear": 1958,
+    "dYear": 1962
+  },
+  {
+    "id": 183,
+    "name": "Radiotelevisione Svizzera",
+    "country": "Switzerland",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 184,
+    "name": "Radiotelevizija Slovenija",
+    "country": "Slovenia",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 185,
+    "name": "RKB Mainichi Broadcasting",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 186,
+    "name": "Royal Thai Army Radio and Television Channel 5",
+    "country": "Thailand",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 187,
+    "name": "RTS1",
+    "country": "Serbia",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 188,
+    "name": "Sanyo Broadcasting",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 189,
+    "name": "Schweizer Fernsehen",
+    "country": "Switzerland",
+    "lYear": 1958,
+    "dYear": 2012
+  },
+  {
+    "id": 190,
+    "name": "Shin-etsu Broadcasting",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 191,
+    "name": "Shizuoka Broadcasting System",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 192,
+    "name": "Southern Television",
+    "country": "United Kingdom",
+    "lYear": 1958,
+    "dYear": 1982
+  },
+  {
+    "id": 193,
+    "name": "SRF 1",
+    "country": "Switzerland",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 194,
+    "name": "TeleRadio-Moldova",
+    "country": "Moldova",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 195,
+    "name": "Teletica",
+    "country": "Costa Rica",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 196,
+    "name": "Television Nishinippon Corporation",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 197,
+    "name": "Television Wales and the West",
+    "country": "United Kingdom",
+    "lYear": 1958,
+    "dYear": 1964
+  },
+  {
+    "id": 198,
+    "name": "Tōkai Television Broadcasting",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 199,
+    "name": "TV Perú",
+    "country": "Peru",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 200,
+    "name": "TVP3 Warszawa",
+    "country": "Poland",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 201,
+    "name": "Yle",
+    "country": "Finland",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 202,
+    "name": "Yle TV1",
+    "country": "Finland",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 203,
+    "name": "Yomiuri Telecasting Corporation",
+    "country": "Japan",
+    "lYear": 1958,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 204,
+    "name": "BNT 1",
+    "country": "Bulgaria",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 205,
+    "name": "Broadcasting System of San-in",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 206,
+    "name": "Bulgarian National Television",
+    "country": "Bulgaria",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 207,
+    "name": "Canal 13",
+    "country": "Chile",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 208,
+    "name": "Canal Once",
+    "country": "Mexico",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 209,
+    "name": "DD National",
+    "country": "India",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 210,
+    "name": "Doordarshan",
+    "country": "India",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 211,
+    "name": "Fuji TV",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 212,
+    "name": "ITV Anglia",
+    "country": "United Kingdom",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 213,
+    "name": "ITV Tyne Tees",
+    "country": "United Kingdom",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 214,
+    "name": "Jamaica Broadcasting Corporation",
+    "country": "Jamaica",
+    "lYear": 1959,
+    "dYear": 1997
+  },
+  {
+    "id": 215,
+    "name": "Japan News Network",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 216,
+    "name": "Jilin Television",
+    "country": "China",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 217,
+    "name": "Kitanihon Broadcasting",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 218,
+    "name": "Kyushu Asahi Broadcasting",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 219,
+    "name": "Mainichi Broadcasting System",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 220,
+    "name": "Nederlandse Christelijke Radio Vereniging",
+    "country": "Netherlands",
+    "lYear": 1959,
+    "dYear": 2014
+  },
+  {
+    "id": 221,
+    "name": "NHK Educational TV",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 222,
+    "name": "Nihonkai Telecasting",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 223,
+    "name": "Okinawa Television",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 224,
+    "name": "Rahintel",
+    "country": "Dominican Republic",
+    "lYear": 1959,
+    "dYear": 1999
+  },
+  {
+    "id": 225,
+    "name": "RCC Broadcasting",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 226,
+    "name": "ResTeleSistema",
+    "country": "Ecuador",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 227,
+    "name": "Shikoku Broadcasting",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 228,
+    "name": "Télé Liban",
+    "country": "Lebanon",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 229,
+    "name": "Telemax",
+    "country": "Mexico",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 230,
+    "name": "Televizioni Tojikiston",
+    "country": "Tajikistan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 231,
+    "name": "Tohoku Broadcasting Company",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 232,
+    "name": "TVP3 Gdańsk",
+    "country": "Poland",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 233,
+    "name": "UTV",
+    "country": "United Kingdom",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 234,
+    "name": "Yamaguchi Broadcasting",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 235,
+    "name": "Yamaguchi Broadcasting System",
+    "country": "Japan",
+    "lYear": 1959,
+    "dYear": "Ongoing"
   }
 ]
