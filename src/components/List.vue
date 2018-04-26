@@ -1,6 +1,6 @@
 <template>
   <div class="list">
-    <h1>TV List</h1>
+    <h1>{{ title }}</h1>
     <paginate
       name="channels"
       :list="stations"
@@ -42,6 +42,7 @@ export default {
   name: 'List',
   data () {
     return {
+      title: 'TV List',
       stations: json,
       paginate: ['channels']
     }

@@ -6,6 +6,7 @@
     <div class="link">
       <router-link to="/form">Form</router-link>
       <router-link to="/list">List</router-link>
+      <router-link to="/search">Search</router-link>
     </div>
   </div>
 </template>
@@ -16,7 +17,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to My Vue.js Project',
-      msg2: 'In this project we are going to have a TV form and a TV list',
+      msg2: 'In this project we are going to have a TV form, a TV list and a search engine',
       msg3: 'Choose one of these options'
     }
   }
