@@ -1,13 +1,13 @@
 <template>
   <div class="search">
     <h1>{{ title }}</h1>
-    <form @submit="search" name="search" id="search">
+    <form>
       <p>
         <label for="tv_name">TV station name:</label><br>
         <input type="text" name="tv_name" id="tv_name" v-model="name"/>
       </p>
       <p>
-        <input type="submit" value="Submit"/>
+        <button type="button" v-on:click="search()">Search</button>
       </p>
     </form>
   </div>
@@ -25,11 +25,11 @@ export default {
     }
   },
   methods: {
-    search: function (e) {
-      if (this.name !== '') {
-        this.$set(this.stations, this.stations.name, this.name)
-      }
-      e.preventDefault()
+    search: function () {
+      console.log({name: this.name})
+      return this.stations.filter((station) => {
+        return station.name.match(this.name)
+      })
     }
   }
 }
@@ -42,7 +42,7 @@ h1 {
 label {
   font-weight: bold;
 }
-input[type='submit'] {
+button {
   border-color: black;
   color: black;
   background-color: white;

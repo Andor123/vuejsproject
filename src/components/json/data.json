@@ -2343,5 +2343,194 @@
     "country": "Finland",
     "lYear": 1965,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 334,
+    "name": "La 2",
+    "country": "Spain",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 335,
+    "name": "Arkansas Educational Television Network",
+    "country": "United States of America",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 336,
+    "name": "Canal 11 Televisión",
+    "country": "Venezuela",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 337,
+    "name": "Canal Institucional",
+    "country": "Colombia",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 338,
+    "name": "ERT1",
+    "country": "Greece",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 339,
+    "name": "Fuji News Network",
+    "country": "Japan",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 340,
+    "name": "Hellenic Broadcasting Corporation",
+    "country": "Greece",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 341,
+    "name": "IRIB TV1",
+    "country": "Iran",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 342,
+    "name": "Israeli Educational Television",
+    "country": "Israel",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 343,
+    "name": "National Radio Television Foundation",
+    "country": "Greece",
+    "lYear": 1966,
+    "dYear": 1982
+  },
+  {
+    "id": 344,
+    "name": "National Television of Kampuchea",
+    "country": "Cambodia",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 345,
+    "name": "Nippon News Network",
+    "country": "Japan",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 346,
+    "name": "Radio Télévision Gabonaise",
+    "country": "Gabon",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 347,
+    "name": "Radio Television of Djibouti",
+    "country": "Djibouti",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 348,
+    "name": "Radiodiffusion Television Ivoirienne",
+    "country": "Ivory Coast",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 349,
+    "name": "Rai Südtirol",
+    "country": "Italy",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 350,
+    "name": "Rai Südtirol Fernsehen",
+    "country": "Italy",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 351,
+    "name": "RÚV",
+    "country": "Iceland",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 352,
+    "name": "RÚV Rás",
+    "country": "Iceland",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 353,
+    "name": "Shaw TV Edmonton",
+    "country": "Canada",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 354,
+    "name": "Swaziland Broadcasting and Information Service",
+    "country": "Swaziland",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 355,
+    "name": "Telenorte",
+    "country": "Chile",
+    "lYear": 1966,
+    "dYear": 2001
+  },
+  {
+    "id": 356,
+    "name": "Teletigre",
+    "country": "Colombia",
+    "lYear": 1966,
+    "dYear": 1971
+  },
+  {
+    "id": 357,
+    "name": "Televicentro (Canal 2)",
+    "country": "Nicaragua",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 358,
+    "name": "Télévision Tunisienne 1",
+    "country": "Tunisia",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 359,
+    "name": "Vietnam Television",
+    "country": "South Vietnam (Vietnam)",
+    "lYear": 1966,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 360,
+    "name": "Zambia National Broadcasting Corporation",
+    "country": "Zambia",
+    "lYear": 1966,
+    "dYear": "Ongoing"
   }
 ]
