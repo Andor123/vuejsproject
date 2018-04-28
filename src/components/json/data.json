@@ -2532,5 +2532,236 @@
     "country": "Zambia",
     "lYear": 1966,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 361,
+    "name": "Channel 7",
+    "country": "Thailand",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 362,
+    "name": "Evangelische Omroep",
+    "country": "Netherlands",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 363,
+    "name": "GWN7",
+    "country": "Australia",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 364,
+    "name": "MNB",
+    "country": "Mongolia",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 365,
+    "name": "Radio Nacional de Guinea Ecuatorial",
+    "country": "Equatorial Guinea",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 366,
+    "name": "RCN Televisión",
+    "country": "Colombia",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 367,
+    "name": "Rede Bandeirantes",
+    "country": "Brazil",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 368,
+    "name": "Sveriges Utbildningsradio",
+    "country": "Sweden",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 369,
+    "name": "Telefuturo",
+    "country": "Paraguay",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 370,
+    "name": "TVB",
+    "country": "Hong Kong",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 371,
+    "name": "TVB Jade",
+    "country": "Hong Kong",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 372,
+    "name": "TVB Pearl",
+    "country": "Hong Kong",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 373,
+    "name": "VPRO",
+    "country": "Netherlands",
+    "lYear": 1967,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 374,
+    "name": "Canal 3 Colonia",
+    "country": "Uruguay",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 375,
+    "name": "Channel 1",
+    "country": "Israel",
+    "lYear": 1968,
+    "dYear": 2017
+  },
+  {
+    "id": 376,
+    "name": "China Television",
+    "country": "Taiwan",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 377,
+    "name": "France 3 Alpes",
+    "country": "France",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 378,
+    "name": "Gala TV",
+    "country": "Mexico",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 379,
+    "name": "Independent Television Service for Wales and the West",
+    "country": "United Kingdom",
+    "lYear": 1968,
+    "dYear": 1968
+  },
+  {
+    "id": 380,
+    "name": "Israel Broadcasting Authority",
+    "country": "Israel",
+    "lYear": 1968,
+    "dYear": 2017
+  },
+  {
+    "id": 381,
+    "name": "ITV Wales & West",
+    "country": "United Kingdom",
+    "lYear": 1968,
+    "dYear": 2013
+  },
+  {
+    "id": 382,
+    "name": "ITV Yorkshire",
+    "country": "United Kingdom",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 383,
+    "name": "Kentucky Educational Television",
+    "country": "United States of America",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 384,
+    "name": "London Weekend Television",
+    "country": "United Kingdom",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 385,
+    "name": "Multimedios Televisión",
+    "country": "Mexico",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 386,
+    "name": "Rogers TV",
+    "country": "Canada",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 387,
+    "name": "RTP2",
+    "country": "Portugal",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 388,
+    "name": "Tele Rebelde",
+    "country": "Cuba",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 389,
+    "name": "Thames Television",
+    "country": "United Kingdom",
+    "lYear": 1968,
+    "dYear": 1992
+  },
+  {
+    "id": 390,
+    "name": "TRT 1",
+    "country": "Turkey",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 391,
+    "name": "Turkish Radio and Television Corporation",
+    "country": "Turkey",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 392,
+    "name": "TV Rogers",
+    "country": "Canada",
+    "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 393,
+    "name": "TVR2",
+    "country": "Romania",
+    "lYear": 1968,
+    "dYear": "Ongoing"
   }
 ]
