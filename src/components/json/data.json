@@ -1386,7 +1386,7 @@
     "dYear": 1997
   },
   {
-    "id": 190,
+    "id": 199,
     "name": "Japan News Network",
     "country": "Japan",
     "lYear": 1959,
@@ -2296,472 +2296,927 @@
     "dYear": "Ongoing"
   },
   {
-    "id": 327,
+    "id": 329,
     "name": "Stichting Ether Reclame",
     "country": "Netherlands",
     "lYear": 1965,
     "dYear": "Ongoing"
   },
   {
-    "id": 328,
+    "id": 330,
     "name": "Telecorporación Salvadoreña",
     "country": "El Salvador",
     "lYear": 1965,
     "dYear": "Ongoing"
   },
   {
-    "id": 329,
+    "id": 331,
     "name": "TV Cerro Corá",
     "country": "Paraguay",
     "lYear": 1965,
     "dYear": "Ongoing"
   },
   {
-    "id": 330,
+    "id": 332,
     "name": "TVS Television Network",
     "country": "United States of America",
     "lYear": 1965,
     "dYear": "Ongoing"
   },
   {
-    "id": 331,
+    "id": 333,
     "name": "UA:PBC",
     "country": "Ukraine",
     "lYear": 1965,
     "dYear": "Ongoing"
   },
   {
-    "id": 332,
+    "id": 334,
     "name": "UA:First",
     "country": "Ukraine",
     "lYear": 1965,
     "dYear": "Ongoing"
   },
   {
-    "id": 333,
+    "id": 335,
     "name": "Yle TV2",
     "country": "Finland",
     "lYear": 1965,
     "dYear": "Ongoing"
   },
   {
-    "id": 334,
+    "id": 336,
     "name": "La 2",
     "country": "Spain",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 335,
+    "id": 337,
     "name": "Arkansas Educational Television Network",
     "country": "United States of America",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 336,
+    "id": 338,
     "name": "Canal 11 Televisión",
     "country": "Venezuela",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 337,
+    "id": 339,
     "name": "Canal Institucional",
     "country": "Colombia",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 338,
+    "id": 340,
     "name": "ERT1",
     "country": "Greece",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 339,
+    "id": 341,
     "name": "Fuji News Network",
     "country": "Japan",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 340,
+    "id": 342,
     "name": "Hellenic Broadcasting Corporation",
     "country": "Greece",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 341,
+    "id": 343,
     "name": "IRIB TV1",
     "country": "Iran",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 342,
+    "id": 344,
     "name": "Israeli Educational Television",
     "country": "Israel",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 343,
+    "id": 345,
     "name": "National Radio Television Foundation",
     "country": "Greece",
     "lYear": 1966,
     "dYear": 1982
   },
   {
-    "id": 344,
+    "id": 346,
     "name": "National Television of Kampuchea",
     "country": "Cambodia",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 345,
+    "id": 347,
     "name": "Nippon News Network",
     "country": "Japan",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 346,
+    "id": 348,
     "name": "Radio Télévision Gabonaise",
     "country": "Gabon",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 347,
+    "id": 349,
     "name": "Radio Television of Djibouti",
     "country": "Djibouti",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 348,
+    "id": 350,
     "name": "Radiodiffusion Television Ivoirienne",
     "country": "Ivory Coast",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 349,
+    "id": 351,
     "name": "Rai Südtirol",
     "country": "Italy",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 350,
+    "id": 352,
     "name": "Rai Südtirol Fernsehen",
     "country": "Italy",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 351,
+    "id": 353,
     "name": "RÚV",
     "country": "Iceland",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 352,
+    "id": 354,
     "name": "RÚV Rás",
     "country": "Iceland",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 353,
+    "id": 355,
     "name": "Shaw TV Edmonton",
     "country": "Canada",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 354,
+    "id": 356,
     "name": "Swaziland Broadcasting and Information Service",
     "country": "Swaziland",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 355,
+    "id": 357,
     "name": "Telenorte",
     "country": "Chile",
     "lYear": 1966,
     "dYear": 2001
   },
   {
-    "id": 356,
+    "id": 358,
     "name": "Teletigre",
     "country": "Colombia",
     "lYear": 1966,
     "dYear": 1971
   },
   {
-    "id": 357,
+    "id": 359,
     "name": "Televicentro (Canal 2)",
     "country": "Nicaragua",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 358,
+    "id": 360,
     "name": "Télévision Tunisienne 1",
     "country": "Tunisia",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 359,
+    "id": 361,
     "name": "Vietnam Television",
     "country": "South Vietnam (Vietnam)",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 360,
+    "id": 362,
     "name": "Zambia National Broadcasting Corporation",
     "country": "Zambia",
     "lYear": 1966,
     "dYear": "Ongoing"
   },
   {
-    "id": 361,
+    "id": 363,
     "name": "Channel 7",
     "country": "Thailand",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 362,
+    "id": 364,
     "name": "Evangelische Omroep",
     "country": "Netherlands",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 363,
+    "id": 365,
     "name": "GWN7",
     "country": "Australia",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 364,
+    "id": 366,
     "name": "MNB",
     "country": "Mongolia",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 365,
+    "id": 367,
     "name": "Radio Nacional de Guinea Ecuatorial",
     "country": "Equatorial Guinea",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 366,
+    "id": 368,
     "name": "RCN Televisión",
     "country": "Colombia",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 367,
+    "id": 369,
     "name": "Rede Bandeirantes",
     "country": "Brazil",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 368,
+    "id": 370,
     "name": "Sveriges Utbildningsradio",
     "country": "Sweden",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 369,
+    "id": 371,
     "name": "Telefuturo",
     "country": "Paraguay",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 370,
+    "id": 372,
     "name": "TVB",
     "country": "Hong Kong",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 371,
+    "id": 373,
     "name": "TVB Jade",
     "country": "Hong Kong",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 372,
+    "id": 374,
     "name": "TVB Pearl",
     "country": "Hong Kong",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 373,
+    "id": 375,
     "name": "VPRO",
     "country": "Netherlands",
     "lYear": 1967,
     "dYear": "Ongoing"
   },
   {
-    "id": 374,
+    "id": 376,
     "name": "Canal 3 Colonia",
     "country": "Uruguay",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 375,
+    "id": 377,
     "name": "Channel 1",
     "country": "Israel",
     "lYear": 1968,
     "dYear": 2017
   },
   {
-    "id": 376,
+    "id": 378,
     "name": "China Television",
     "country": "Taiwan",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 377,
+    "id": 379,
     "name": "France 3 Alpes",
     "country": "France",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 378,
+    "id": 380,
     "name": "Gala TV",
     "country": "Mexico",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 379,
+    "id": 381,
     "name": "Independent Television Service for Wales and the West",
     "country": "United Kingdom",
     "lYear": 1968,
     "dYear": 1968
   },
   {
-    "id": 380,
+    "id": 382,
     "name": "Israel Broadcasting Authority",
     "country": "Israel",
     "lYear": 1968,
     "dYear": 2017
   },
   {
-    "id": 381,
+    "id": 383,
     "name": "ITV Wales & West",
     "country": "United Kingdom",
     "lYear": 1968,
     "dYear": 2013
   },
   {
-    "id": 382,
+    "id": 384,
     "name": "ITV Yorkshire",
     "country": "United Kingdom",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 383,
+    "id": 385,
     "name": "Kentucky Educational Television",
     "country": "United States of America",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 384,
+    "id": 386,
     "name": "London Weekend Television",
     "country": "United Kingdom",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 385,
+    "id": 387,
     "name": "Multimedios Televisión",
     "country": "Mexico",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 386,
+    "id": 388,
     "name": "Rogers TV",
     "country": "Canada",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 387,
+    "id": 389,
     "name": "RTP2",
     "country": "Portugal",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 388,
+    "id": 390,
     "name": "Tele Rebelde",
     "country": "Cuba",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 389,
+    "id": 391,
     "name": "Thames Television",
     "country": "United Kingdom",
     "lYear": 1968,
     "dYear": 1992
   },
   {
-    "id": 390,
+    "id": 392,
     "name": "TRT 1",
     "country": "Turkey",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 391,
+    "id": 393,
     "name": "Turkish Radio and Television Corporation",
     "country": "Turkey",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 392,
+    "id": 394,
     "name": "TV Rogers",
     "country": "Canada",
     "lYear": 1968,
     "dYear": "Ongoing"
   },
   {
-    "id": 393,
+    "id": 395,
     "name": "TVR2",
     "country": "Romania",
     "lYear": 1968,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 396,
+    "name": "Abu Dhabi Sports",
+    "country": "United Arab Emirates",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 397,
+    "name": "Abu Dhabi TV",
+    "country": "United Arab Emirates",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 398,
+    "name": "Color Visión",
+    "country": "Dominican Republic",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 399,
+    "name": "CTV Main Channel",
+    "country": "Taiwan",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 400,
+    "name": "Faith Broadcasting Network",
+    "country": "United States of America",
+    "lYear": 1969,
+    "dYear": 1985
+  },
+  {
+    "id": 401,
+    "name": "Fuji Network System",
+    "country": "Japan",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 402,
+    "name": "Henan Television",
+    "country": "China",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 403,
+    "name": "Libyan Jamahiriya Broadcasting Corporation",
+    "country": "Libya",
+    "lYear": 1969,
+    "dYear": 2011
+  },
+  {
+    "id": 404,
+    "name": "Maryland Public Television",
+    "country": "United States of America",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 405,
+    "name": "MSG",
+    "country": "United States of America",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 406,
+    "name": "Munhwa Broadcasting Corporation",
+    "country": "South Korea",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 407,
+    "name": "Nederlandse Omroep Stichting",
+    "country": "Netherlands",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 408,
+    "name": "Saarländischer Rundfunk",
+    "country": "Germany",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 409,
+    "name": "SVT2",
+    "country": "Sweden",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 410,
+    "name": "SWR Fernsehen",
+    "country": "Germany",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 411,
+    "name": "TC Televisión",
+    "country": "Ecuador",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 412,
+    "name": "Telecare",
+    "country": "United States of America",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 413,
+    "name": "Televisión Nacional de Chile",
+    "country": "Chile",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 414,
+    "name": "TV Boliviana",
+    "country": "Bolivia",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 415,
+    "name": "TV Cultura",
+    "country": "Brazil",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 416,
+    "name": "TV2",
+    "country": "Malaysia",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 417,
+    "name": "West Virginia Public Broadcasting",
+    "country": "United States of America",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 418,
+    "name": "Yunnan Television",
+    "country": "China",
+    "lYear": 1969,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 419,
+    "name": "All-Nippon News Network",
+    "country": "Japan",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 420,
+    "name": "Channel 3",
+    "country": "Thailand",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 421,
+    "name": "ČT2",
+    "country": "Czech Republic",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 422,
+    "name": "Dvojka",
+    "country": "Slovakia",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 423,
+    "name": "EastLink TV",
+    "country": "Canada",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 424,
+    "name": "MATV",
+    "country": "Canada",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 425,
+    "name": "Mississippi Public Broadcasting",
+    "country": "United States of America",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 426,
+    "name": "National Broadcasting Television",
+    "country": "Greece",
+    "lYear": 1970,
+    "dYear": 1975
+  },
+  {
+    "id": 427,
+    "name": "Ningxia Television",
+    "country": "China",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 428,
+    "name": "PBS",
+    "country": "United States of America",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 429,
+    "name": "Qatar Television",
+    "country": "Qatar",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 430,
+    "name": "Señal Colombia",
+    "country": "Colombia",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 431,
+    "name": "TV Gazeta",
+    "country": "Brazil",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 432,
+    "name": "TVOntario",
+    "country": "Canada",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 433,
+    "name": "TVP2",
+    "country": "Poland",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 434,
+    "name": "VTV1",
+    "country": "Vietnam",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 435,
+    "name": "Xinjiang Television",
+    "country": "China",
+    "lYear": 1970,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 436,
+    "name": "Chinese Television System",
+    "country": "Taiwan",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 437,
+    "name": "CTS Main Channel",
+    "country": "Taiwan",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 438,
+    "name": "ERTU",
+    "country": "Egypt",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 439,
+    "name": "M2",
+    "country": "Hungary",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 440,
+    "name": "Mazandaran TV",
+    "country": "Iran",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 441,
+    "name": "New Jersey Network",
+    "country": "United States of America",
+    "lYear": 1971,
+    "dYear": 2011
+  },
+  {
+    "id": 442,
+    "name": "Qinghai Television",
+    "country": "China",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 443,
+    "name": "RTS2",
+    "country": "Serbia",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 444,
+    "name": "Tele 9 Corazón",
+    "country": "Colombia",
+    "lYear": 1971,
+    "dYear": 1972
+  },
+  {
+    "id": 445,
+    "name": "Toledo 5",
+    "country": "United States of America",
+    "lYear": 1971,
+    "dYear": 2014
+  },
+  {
+    "id": 446,
+    "name": "TV Koper-Capodistria",
+    "country": "Slovenia",
+    "lYear": 1971,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 447,
+    "name": "Azteca Uno",
+    "country": "Mexico",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 448,
+    "name": "Canal A",
+    "country": "Colombia",
+    "lYear": 1972,
+    "dYear": 2003
+  },
+  {
+    "id": 449,
+    "name": "CTS Education and Culture",
+    "country": "Taiwan",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 450,
+    "name": "Doordarshan Kendra Mumbai",
+    "country": "India",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 451,
+    "name": "France 3",
+    "country": "France",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 452,
+    "name": "Greenwich Cablevision",
+    "country": "United Kingdom",
+    "lYear": 1972,
+    "dYear": 1979
+  },
+  {
+    "id": 453,
+    "name": "HBO",
+    "country": "United States of America",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 454,
+    "name": "HRT 2",
+    "country": "Croatia",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 455,
+    "name": "Nippon Television Network System",
+    "country": "Japan",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 456,
+    "name": "Office de Radiodiffusion et Télévision du Bénin",
+    "country": "Benin",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 457,
+    "name": "RTP Madeira",
+    "country": "Portugal",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 458,
+    "name": "Télé-Québec",
+    "country": "Canada",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 459,
+    "name": "TLC",
+    "country": "United States of America",
+    "lYear": 1972,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 460,
+    "name": "TV Pendidikan",
+    "country": "Malaysia",
+    "lYear": 1972,
     "dYear": "Ongoing"
   }
 ]
