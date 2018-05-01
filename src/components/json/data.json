@@ -3218,5 +3218,201 @@
     "country": "Malaysia",
     "lYear": 1972,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 461,
+    "name": "Banahaw Broadcasting Corporation",
+    "country": "Philippines",
+    "lYear": 1973,
+    "dYear": 1986
+  },
+  {
+    "id": 462,
+    "name": "Bristol Channel",
+    "country": "United Kingdom",
+    "lYear": 1973,
+    "dYear": 1975
+  },
+  {
+    "id": 463,
+    "name": "CCTV-2",
+    "country": "China",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 464,
+    "name": "CTV Two Alberta",
+    "country": "Canada",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 465,
+    "name": "Guinea-Bissau National Radio and Television",
+    "country": "Guinea-Bissau",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 466,
+    "name": "Ho Chi Minh City Television",
+    "country": "Vietnam",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 467,
+    "name": "Joodse Omroep",
+    "country": "Netherlands",
+    "lYear": 1973,
+    "dYear": 2015
+  },
+  {
+    "id": 468,
+    "name": "The Movie Channel",
+    "country": "United States of America",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 469,
+    "name": "Sheffield Cablevision",
+    "country": "United Kingdom",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 470,
+    "name": "Swindon Cable",
+    "country": "United Kingdom",
+    "lYear": 1973,
+    "dYear": 2000
+  },
+  {
+    "id": 471,
+    "name": "Swindon Viewpoint",
+    "country": "United Kingdom",
+    "lYear": 1973,
+    "dYear": 2000
+  },
+  {
+    "id": 472,
+    "name": "Televisa",
+    "country": "Mexico",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 473,
+    "name": "Televisão Pública de Angola",
+    "country": "Angola",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 474,
+    "name": "Togolese Television",
+    "country": "Togo",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 475,
+    "name": "Trinity Broadcasting Network",
+    "country": "United States of America",
+    "lYear": 1973,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 476,
+    "name": "BNT 2",
+    "country": "Bulgaria",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 477,
+    "name": "Canal 8 UCV TV",
+    "country": "Chile",
+    "lYear": 1974,
+    "dYear": 2002
+  },
+  {
+    "id": 478,
+    "name": "DD Jharkhand",
+    "country": "India",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 479,
+    "name": "Global Television Network",
+    "country": "Canada",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 480,
+    "name": "People's Television Network",
+    "country": "Philippines",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 481,
+    "name": "Radio Television Afghanistan",
+    "country": "Afghanistan",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 482,
+    "name": "Sultanate of Oman Television",
+    "country": "Oman",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 483,
+    "name": "Teleamazonas",
+    "country": "Ecuador",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 484,
+    "name": "Telelombardia",
+    "country": "Italy",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 485,
+    "name": "Telemontecarlo",
+    "country": "Italy/Monaco",
+    "lYear": 1974,
+    "dYear": 2001
+  },
+  {
+    "id": 486,
+    "name": "TV Chile",
+    "country": "Chile",
+    "lYear": 1974,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 487,
+    "name": "Wellingborough Cablevision",
+    "country": "United Kingdom",
+    "lYear": 1974,
+    "dYear": 1975
+  },
+  {
+    "id": 488,
+    "name": "Z Channel",
+    "country": "United States of America",
+    "lYear": 1974,
+    "dYear": 1989
   }
 ]
