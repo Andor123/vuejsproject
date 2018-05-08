@@ -3414,5 +3414,460 @@
     "country": "United States of America",
     "lYear": 1974,
     "dYear": 1989
+  },
+  {
+    "id": 489,
+    "name": "Burundi National Radio and Television",
+    "country": "Burundi",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 490,
+    "name": "DD Coimbatore",
+    "country": "India",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 491,
+    "name": "Commercial Television",
+    "country": "Hong Kong",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 492,
+    "name": "DD Bangla",
+    "country": "India",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 493,
+    "name": "DD Chennai",
+    "country": "India",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 494,
+    "name": "France 3 Midi-Pyrénées",
+    "country": "France",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 495,
+    "name": "Guatevisión",
+    "country": "Guatemala",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 496,
+    "name": "Intercontinental Broadcasting Corporation",
+    "country": "Philippines",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 497,
+    "name": "Louisiana Public Broadcasting",
+    "country": "United States of America",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 498,
+    "name": "NHL Network",
+    "country": "United States of America",
+    "lYear": 1975,
+    "dYear": 1979
+  },
+  {
+    "id": 499,
+    "name": "Public Broadcasting Services",
+    "country": "Malta",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 500,
+    "name": "Radio Television Brunei",
+    "country": "Brunei",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 501,
+    "name": "Radio Télévision du Burkina",
+    "country": "Burkina Faso",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 502,
+    "name": "Radio Television of Vojvodina",
+    "country": "Serbia",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 503,
+    "name": "Radiodiffusion Télévision Congolaise",
+    "country": "Republic of the Congo",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 504,
+    "name": "RTP Açores",
+    "country": "Portugal",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 505,
+    "name": "South African Broadcasting Corporation",
+    "country": "South Africa",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 506,
+    "name": "Télé Tchad",
+    "country": "Chad",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 507,
+    "name": "Telefriuli",
+    "country": "Italy",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 508,
+    "name": "Televisão Educativa",
+    "country": "Brazil",
+    "lYear": 1975,
+    "dYear": 2007
+  },
+  {
+    "id": 509,
+    "name": "TVNZ 2",
+    "country": "New Zealand",
+    "lYear": 1975,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 510,
+    "name": "Apsua TV",
+    "country": "Abkhazia (Georgia)",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 511,
+    "name": "DD Pondicherry",
+    "country": "India",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 512,
+    "name": "Doordarshan Kendra, Madurai",
+    "country": "India",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 513,
+    "name": "Interkerkelijke Omroep Nederland",
+    "country": "Netherlands",
+    "lYear": 1976,
+    "dYear": 2016
+  },
+  {
+    "id": 514,
+    "name": "MSG Plus",
+    "country": "United States of America",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 515,
+    "name": "Nigerian Television Authority",
+    "country": "Nigeria",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 516,
+    "name": "PRISM",
+    "country": "United States of America",
+    "lYear": 1976,
+    "dYear": 1997
+  },
+  {
+    "id": 517,
+    "name": "RTHK",
+    "country": "Hong Kong",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 518,
+    "name": "SelecTV",
+    "country": "United States of America",
+    "lYear": 1976,
+    "dYear": 1991
+  },
+  {
+    "id": 519,
+    "name": "Showtime",
+    "country": "United States of America",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 520,
+    "name": "Spectrum OC16",
+    "country": "United States of America",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 521,
+    "name": "TBS",
+    "country": "United States of America",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 522,
+    "name": "Veronica TV",
+    "country": "Netherlands",
+    "lYear": 1976,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 523,
+    "name": "Antenna 3 Lombardia",
+    "country": "Italy",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 524,
+    "name": "Belgischer Rundfunk",
+    "country": "Belgium",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 525,
+    "name": "Canal 6",
+    "country": "Honduras",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 526,
+    "name": "DD Saptagiri",
+    "country": "India",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 527,
+    "name": "DD Yadagiri",
+    "country": "India",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 528,
+    "name": "La Deux",
+    "country": "Belgium",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 529,
+    "name": "Dubai 33",
+    "country": "United Arab Emirates",
+    "lYear": 1977,
+    "dYear": 2004
+  },
+  {
+    "id": 530,
+    "name": "Freeform",
+    "country": "United States of America",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 531,
+    "name": "GamaTV",
+    "country": "Ecuador",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 532,
+    "name": "Japanese Association of Independent Television Stations",
+    "country": "Japan",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 533,
+    "name": "MCOT",
+    "country": "Thailand",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 534,
+    "name": "Nickelodeon",
+    "country": "United States of America",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 535,
+    "name": "ONTV",
+    "country": "United States of America",
+    "lYear": 1977,
+    "dYear": 1985
+  },
+  {
+    "id": 536,
+    "name": "PTL Satellite Network",
+    "country": "United States of America",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 537,
+    "name": "Tele Venezia",
+    "country": "Italy",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 538,
+    "name": "Tri-State Christian Television",
+    "country": "United States of America",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 539,
+    "name": "USA Network",
+    "country": "United States of America",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 540,
+    "name": "Wometco Home Theater",
+    "country": "United States of America",
+    "lYear": 1977,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 541,
+    "name": "Antenna Tre Nordest",
+    "country": "Italy",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 542,
+    "name": "Canal 13",
+    "country": "Costa Rica",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 543,
+    "name": "Cartoon Network",
+    "country": "Czech Republic/Hungary/Romania",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 544,
+    "name": "Home Theater Network",
+    "country": "United States of America",
+    "lYear": 1978,
+    "dYear": 1987
+  },
+  {
+    "id": 545,
+    "name": "INSP",
+    "country": "United States of America",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 546,
+    "name": "MRT 2",
+    "country": "Macedonia",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 547,
+    "name": "RTÉ2",
+    "country": "Republic of Ireland",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 548,
+    "name": "Special Broadcasting Service",
+    "country": "Australia",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 549,
+    "name": "Television Maldives",
+    "country": "Maldives",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 550,
+    "name": "Trecevisión",
+    "country": "Guatemala",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 551,
+    "name": "TVA Vicenza",
+    "country": "Italy",
+    "lYear": 1978,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 552,
+    "name": "UPI Newstime",
+    "country": "United States of America",
+    "lYear": 1978,
+    "dYear": 1981
+  },
+  {
+    "id": 553,
+    "name": "WGN America",
+    "country": "United States of America",
+    "lYear": 1978,
+    "dYear": "Ongoing"
   }
 ]

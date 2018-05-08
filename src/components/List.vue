@@ -37,7 +37,7 @@
 </template>
 
 <script>
-import json from './json/data.json'
+import json from '../assets/json/data.json'
 export default {
   name: 'List',
   data () {
