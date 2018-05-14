@@ -3869,5 +3869,355 @@
     "country": "United States of America",
     "lYear": 1978,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 554,
+    "name": "Antenna Sicilia",
+    "country": "Italy",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 555,
+    "name": "Beijing Media Network",
+    "country": "China",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 556,
+    "name": "C-SPAN",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 557,
+    "name": "CBC Parliamentary Television Network",
+    "country": "Canada",
+    "lYear": 1979,
+    "dYear": 1992
+  },
+  {
+    "id": 558,
+    "name": "Central Nacional de Televisão",
+    "country": "Brazil",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 559,
+    "name": "Christian Television Network",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 560,
+    "name": "Coast Cable 11",
+    "country": "Canada",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 561,
+    "name": "Cornerstone Television",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 562,
+    "name": "The Cowboy Channel",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 563,
+    "name": "Doordarshan Kendra, Jalandhar",
+    "country": "India",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 564,
+    "name": "Emirates Dubai Television",
+    "country": "United Arab Emirates",
+    "lYear": 1979,
+    "dYear": 2004
+  },
+  {
+    "id": 565,
+    "name": "Emissoras Pioneiras de Televisão",
+    "country": "Brazil",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 566,
+    "name": "ESPN",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 567,
+    "name": "La Familia Cosmovision",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": 2014
+  },
+  {
+    "id": 568,
+    "name": "Galavisión",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 569,
+    "name": "Independent Television Network",
+    "country": "Sri Lanka",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 570,
+    "name": "IRIB TV2",
+    "country": "Iran",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 571,
+    "name": "ITN Channel",
+    "country": "Sri Lanka",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 572,
+    "name": "Myanmar Radio and Television",
+    "country": "Myanmar",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 573,
+    "name": "National Christian Network",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 574,
+    "name": "National Iranian Radio & Television",
+    "country": "Iran",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 575,
+    "name": "National Jewish Television",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 576,
+    "name": "Rai 3",
+    "country": "Italy",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 577,
+    "name": "Satellite Program Network",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": 1990
+  },
+  {
+    "id": 578,
+    "name": "Shaw Multicultural Channel",
+    "country": "Canada",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 579,
+    "name": "Sistema Sandinista de Televisión",
+    "country": "Nicaragua",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 580,
+    "name": "SportsChannel",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": 1998
+  },
+  {
+    "id": 581,
+    "name": "SYTV",
+    "country": "China",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 582,
+    "name": "Televisione Cristiana in Italia",
+    "country": "Italy",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 583,
+    "name": "Tele Antillas",
+    "country": "Dominican Republic",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 584,
+    "name": "Tele Arena",
+    "country": "Italy",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 585,
+    "name": "Telenuovo",
+    "country": "Italy",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 586,
+    "name": "Telepace",
+    "country": "Italy",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 587,
+    "name": "Haiti National Television",
+    "country": "Haiti",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 588,
+    "name": "Video Concert Hall",
+    "country": "United States of America",
+    "lYear": 1979,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 589,
+    "name": "BBS TV",
+    "country": "Bhutan",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 590,
+    "name": "Bravo",
+    "country": "United States of America",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 591,
+    "name": "Canale 5",
+    "country": "Italy",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 592,
+    "name": "Cinemax",
+    "country": "United States of America",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 593,
+    "name": "CNN",
+    "country": "United States of America",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 594,
+    "name": "JTBC",
+    "country": "South Korea",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 595,
+    "name": "NASA TV",
+    "country": "United States of America",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 596,
+    "name": "Preview",
+    "country": "United States of America",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 597,
+    "name": "SBS",
+    "country": "Australia",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 598,
+    "name": "Singapore Broadcasting Corporation",
+    "country": "Singapore",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 599,
+    "name": "Spectrum",
+    "country": "United States of America",
+    "lYear": 1980,
+    "dYear": 1984
+  },
+  {
+    "id": 600,
+    "name": "Television New Zealand",
+    "country": "New Zealand",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 601,
+    "name": "VEU",
+    "country": "United States of America",
+    "lYear": 1980,
+    "dYear": 1984
+  },
+  {
+    "id": 602,
+    "name": "Zee Live",
+    "country": "India",
+    "lYear": 1980,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 603,
+    "name": "Zimbabwe Broadcasting Corporation",
+    "country": "Zimbabwe",
+    "lYear": 1980,
+    "dYear": "Ongoing"
   }
 ]
