@@ -4384,7 +4384,7 @@
   {
     "id": 627,
     "name": "EITB",
-    "country": "Spain/France",
+    "country": "Basque Country (Spain/France)",
     "lYear": 1982,
     "dYear": "Ongoing"
   },
@@ -4454,7 +4454,7 @@
   {
     "id": 637,
     "name": "Kalaallit Nunaata Radioa",
-    "country": "Greenland",
+    "country": "Greenland (Denmark)",
     "lYear": 1982,
     "dYear": "Ongoing"
   },
@@ -4583,5 +4583,278 @@
     "country": "United States of America",
     "lYear": 1982,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 656,
+    "name": "Aim Pay-TV Corp.",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": 1984
+  },
+  {
+    "id": 657,
+    "name": "Alternative Television",
+    "country": "Trinidad and Tobago",
+    "lYear": 1983,
+    "dYear": 2005
+  },
+  {
+    "id": 658,
+    "name": "ATV",
+    "country": "Peru",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 659,
+    "name": "BET",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 660,
+    "name": "Boston Neighborhood Network",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 661,
+    "name": "C Channel",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": 1983
+  },
+  {
+    "id": 662,
+    "name": "Chicago Access Network Television",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 663,
+    "name": "Clark – Vancouver Television",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 664,
+    "name": "CMT",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 665,
+    "name": "Corporació Catalana de Mitjans Audiovisuals",
+    "country": "Catalonia (Spain)",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 666,
+    "name": "CTV Two Atlantic",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 667,
+    "name": "Disney Channel",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 668,
+    "name": "ETB 1",
+    "country": "Basque Country (Spain/France)",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 669,
+    "name": "Fox Sports Southwest",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 670,
+    "name": "Genesis Storytime",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": 1989
+  },
+  {
+    "id": 671,
+    "name": "Hispanic Information and Telecommunications Network",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 672,
+    "name": "Lao National Television",
+    "country": "Laos",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 673,
+    "name": "Latina Televisión",
+    "country": "Peru",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 674,
+    "name": "Movie Central",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": 2016
+  },
+  {
+    "id": 675,
+    "name": "The Movie Network",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 676,
+    "name": "The Nashville Network",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": 2013
+  },
+  {
+    "id": 677,
+    "name": "Nepal Television",
+    "country": "Nepal",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 678,
+    "name": "Office de Radiodiffusion-Télévision du Mali",
+    "country": "Mali",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 679,
+    "name": "Otaniemi Underground Broadcasting System",
+    "country": "Finland",
+    "lYear": 1983,
+    "dYear": 2011
+  },
+  {
+    "id": 680,
+    "name": "Paramount Network",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 681,
+    "name": "Pasadena Community Network",
+    "country": "United States of America",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 682,
+    "name": "Rede Manchete",
+    "country": "Brazil",
+    "lYear": 1983,
+    "dYear": 1999
+  },
+  {
+    "id": 683,
+    "name": "Sanlih E-Television",
+    "country": "Taiwan",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 684,
+    "name": "Saskatchewan Legislative Network",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 685,
+    "name": "Saudi 2",
+    "country": "Saudi Arabia",
+    "lYear": 1983,
+    "dYear": 2017
+  },
+  {
+    "id": 686,
+    "name": "Seychelles Broadcasting Corporation",
+    "country": "Seychelles",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 687,
+    "name": "Super Écran",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 688,
+    "name": "Televisió de Catalunya",
+    "country": "Catalonia (Spain)",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 689,
+    "name": "TV Syd",
+    "country": "Denmark",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 690,
+    "name": "TV-am",
+    "country": "United Kingdom",
+    "lYear": 1983,
+    "dYear": 1992
+  },
+  {
+    "id": 691,
+    "name": "TV3",
+    "country": "Catalonia (Spain)",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 692,
+    "name": "TX Network",
+    "country": "Japan",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 693,
+    "name": "Videoland Television Network",
+    "country": "Taiwan",
+    "lYear": 1983,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 694,
+    "name": "World View Multicultural",
+    "country": "Canada",
+    "lYear": 1983,
+    "dYear": 1989
   }
 ]
