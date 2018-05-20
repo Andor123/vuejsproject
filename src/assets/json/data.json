@@ -4856,5 +4856,334 @@
     "country": "Canada",
     "lYear": 1983,
     "dYear": 1989
+  },
+  {
+    "id": 695,
+    "name": "3sat",
+    "country": "Germany/Austria/Switzerland",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 696,
+    "name": "A&E",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 697,
+    "name": "A&E Networks",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 698,
+    "name": "AMC",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 699,
+    "name": "American Christian Television System",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": 2003
+  },
+  {
+    "id": 700,
+    "name": "Asiavision",
+    "country": "Asia",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 701,
+    "name": "Bop TV",
+    "country": "South Africa",
+    "lYear": 1984,
+    "dYear": 2003
+  },
+  {
+    "id": 702,
+    "name": "Cable Music Channel",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": 1984
+  },
+  {
+    "id": 703,
+    "name": "Canal Macau",
+    "country": "Macau",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 704,
+    "name": "Canal+",
+    "country": "France",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 705,
+    "name": "The Children's Channel",
+    "country": "United Kingdom",
+    "lYear": 1984,
+    "dYear": 2000
+  },
+  {
+    "id": 706,
+    "name": "Chinavision",
+    "country": "Canada",
+    "lYear": 1984,
+    "dYear": 1993
+  },
+  {
+    "id": 707,
+    "name": "Compañía de Radio Televisión de Galicia",
+    "country": "Galicia (Spain)",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 708,
+    "name": "DD Metro",
+    "country": "India",
+    "lYear": 1984,
+    "dYear": 2003
+  },
+  {
+    "id": 709,
+    "name": "Filmnet",
+    "country": "Europe",
+    "lYear": 1984,
+    "dYear": 2008
+  },
+  {
+    "id": 710,
+    "name": "Hallmark Channel",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 711,
+    "name": "CNN International",
+    "country": "Europe/Middle East/Africa",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 712,
+    "name": "Jadeworld",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 713,
+    "name": "Kanal København",
+    "country": "Denmark",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 714,
+    "name": "Kringvarp Føroya",
+    "country": "Faroe Islands (Denmark)",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 715,
+    "name": "Lifetime",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 716,
+    "name": "Mart",
+    "country": "Netherlands",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 717,
+    "name": "Mediacorp Suria",
+    "country": "Singapore",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 718,
+    "name": "Mediacorp TV12",
+    "country": "Singapore",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 719,
+    "name": "MediaCorp Central",
+    "country": "Singapore",
+    "lYear": 1984,
+    "dYear": 2008
+  },
+  {
+    "id": 720,
+    "name": "Much",
+    "country": "Canada",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 721,
+    "name": "Music Box",
+    "country": "United Kingdom",
+    "lYear": 1984,
+    "dYear": 1987
+  },
+  {
+    "id": 722,
+    "name": "NBC Sports Washington",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 723,
+    "name": "New England Sports Network",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 724,
+    "name": "Pro-Am Sports System",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": 1997
+  },
+  {
+    "id": 725,
+    "name": "RTL Television",
+    "country": "Germany",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 726,
+    "name": "Saint Paul Neighborhood Network",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 727,
+    "name": "Sardegna Uno",
+    "country": "Italy",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 728,
+    "name": "Sat.1",
+    "country": "Germany",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 729,
+    "name": "Screensport",
+    "country": "Europe",
+    "lYear": 1984,
+    "dYear": 1993
+  },
+  {
+    "id": 730,
+    "name": "Special Events Television Network",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": 1988
+  },
+  {
+    "id": 731,
+    "name": "The Sports Network",
+    "country": "Canada",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 732,
+    "name": "Sports Time",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 733,
+    "name": "TDM Ou Mun",
+    "country": "Macau",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 734,
+    "name": "Telelatino",
+    "country": "Canada",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 735,
+    "name": "Televisora Regional del Táchira",
+    "country": "Venezuela",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 736,
+    "name": "Three Angels Broadcasting Network",
+    "country": "United States of America",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 737,
+    "name": "TV Åland",
+    "country": "Åland Islands (Finland)",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 738,
+    "name": "TV3",
+    "country": "Malaysia",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 739,
+    "name": "TV5Monde",
+    "country": "France",
+    "lYear": 1984,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 740,
+    "name": "Videomusic",
+    "country": "Italy",
+    "lYear": 1984,
+    "dYear": 1996
+  },
+  {
+    "id": 741,
+    "name": "ZDF 2",
+    "country": "Germany",
+    "lYear": 1984,
+    "dYear": 1984
   }
 ]

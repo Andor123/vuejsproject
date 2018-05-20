@@ -9,7 +9,7 @@
     <table border="1" align="center">
       <tr>
         <th>Name</th>
-        <th>Country</th>
+        <th>Country/Continent</th>
         <th>Launch Year</th>
         <th>Defunct Year</th>
       </tr>
