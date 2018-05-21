@@ -4971,7 +4971,7 @@
   },
   {
     "id": 711,
-    "name": "CNN International",
+    "name": "CNN International EMEA",
     "country": "Europe/Middle East/Africa",
     "lYear": 1984,
     "dYear": "Ongoing"
@@ -5185,5 +5185,215 @@
     "country": "Germany",
     "lYear": 1984,
     "dYear": 1984
+  },
+  {
+    "id": 742,
+    "name": "AMGTV",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 743,
+    "name": "The Box",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": 2001
+  },
+  {
+    "id": 744,
+    "name": "Cable Video Store",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": 1997
+  },
+  {
+    "id": 745,
+    "name": "Canal J",
+    "country": "France",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 746,
+    "name": "Canal M",
+    "country": "Canada",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 747,
+    "name": "Channel 2",
+    "country": "Syria",
+    "lYear": 1985,
+    "dYear": 2012
+  },
+  {
+    "id": 748,
+    "name": "CNN International",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 749,
+    "name": "DD Malayalam",
+    "country": "India",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 750,
+    "name": "Discovery Channel",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 751,
+    "name": "Europa TV",
+    "country": "Europe",
+    "lYear": 1985,
+    "dYear": 1986
+  },
+  {
+    "id": 752,
+    "name": "Fox Sports West and Prime Ticket",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 753,
+    "name": "Home Video Channel",
+    "country": "United Kingdom",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 754,
+    "name": "In Demand",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 755,
+    "name": "Jordan Radio and Television Corporation",
+    "country": "Jordan",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 756,
+    "name": "Lebanese Broadcasting Corporation International",
+    "country": "Lebanon",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 757,
+    "name": "The Life Channel",
+    "country": "Canada",
+    "lYear": 1985,
+    "dYear": 1988
+  },
+  {
+    "id": 758,
+    "name": "Lifestyle",
+    "country": "United Kingdom",
+    "lYear": 1985,
+    "dYear": 1993
+  },
+  {
+    "id": 759,
+    "name": "Nick at Nite",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 760,
+    "name": "Performance Channel",
+    "country": "United Kingdom",
+    "lYear": 1985,
+    "dYear": 2008
+  },
+  {
+    "id": 761,
+    "name": "Request TV",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": 1998
+  },
+  {
+    "id": 762,
+    "name": "SCORE",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": 1991
+  },
+  {
+    "id": 763,
+    "name": "Seattle Channel",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 764,
+    "name": "Sky Racing",
+    "country": "Australia",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 765,
+    "name": "Tele Vida Abundante",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 766,
+    "name": "Televisión de Galicia",
+    "country": "Galicia (Spain)",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 767,
+    "name": "Total Living Network",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 768,
+    "name": "TVP3 Lublin",
+    "country": "Poland",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 769,
+    "name": "Ürümqi Television Station",
+    "country": "China",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 770,
+    "name": "VH1",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 771,
+    "name": "Youtoo America",
+    "country": "United States of America",
+    "lYear": 1985,
+    "dYear": "Ongoing"
   }
 ]
