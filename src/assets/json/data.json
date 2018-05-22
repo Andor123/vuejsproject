@@ -5395,5 +5395,250 @@
     "country": "United States of America",
     "lYear": 1985,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 772,
+    "name": "365",
+    "country": "Iceland",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 773,
+    "name": "ARD 1 Plus",
+    "country": "Germany",
+    "lYear": 1986,
+    "dYear": 1993
+  },
+  {
+    "id": 774,
+    "name": "AT&T SportsNet Pittsburgh",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 775,
+    "name": "Bravo",
+    "country": "United Kingdom",
+    "lYear": 1986,
+    "dYear": 2011
+  },
+  {
+    "id": 776,
+    "name": "CCTV-3",
+    "country": "China",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 777,
+    "name": "China Education Television",
+    "country": "China",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 778,
+    "name": "La Cinq",
+    "country": "France",
+    "lYear": 1986,
+    "dYear": 1992
+  },
+  {
+    "id": 779,
+    "name": "Cubavision International",
+    "country": "Cuba",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 780,
+    "name": "ETB 2",
+    "country": "Basque Country (Spain/France)",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 781,
+    "name": "First United Broadcasting Corporation",
+    "country": "Philippines",
+    "lYear": 1986,
+    "dYear": 1996
+  },
+  {
+    "id": 782,
+    "name": "Fox Broadcasting Company",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 783,
+    "name": "Fox Sports North",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 784,
+    "name": "Gospel Music Network",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": 1991
+  },
+  {
+    "id": 785,
+    "name": "Janco Visjon",
+    "country": "Norway",
+    "lYear": 1986,
+    "dYear": 1987
+  },
+  {
+    "id": 786,
+    "name": "Kolmoskanava",
+    "country": "Finland",
+    "lYear": 1986,
+    "dYear": 1992
+  },
+  {
+    "id": 787,
+    "name": "M-Net",
+    "country": "South Africa",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 788,
+    "name": "M-Net Series",
+    "country": "South Africa",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 789,
+    "name": "MusiquePlus",
+    "country": "France",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 790,
+    "name": "News 12 Long Island",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 791,
+    "name": "News 12 Networks",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 792,
+    "name": "Palawan Broadcasting Corporation",
+    "country": "Philippines",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 793,
+    "name": "Paris Première",
+    "country": "France",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 794,
+    "name": "Premiere",
+    "country": "Europe",
+    "lYear": 1986,
+    "dYear": 1989
+  },
+  {
+    "id": 795,
+    "name": "QVC",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 796,
+    "name": "Red TV",
+    "country": "Peru",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 797,
+    "name": "Réseau Pathonic",
+    "country": "Canada",
+    "lYear": 1986,
+    "dYear": 1990
+  },
+  {
+    "id": 798,
+    "name": "La Sept",
+    "country": "France",
+    "lYear": 1986,
+    "dYear": 1992
+  },
+  {
+    "id": 799,
+    "name": "SPT TV",
+    "country": "United States of America",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 800,
+    "name": "Star Channel",
+    "country": "Japan",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 801,
+    "name": "Stöð 2",
+    "country": "Iceland",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 802,
+    "name": "Stöð 3",
+    "country": "Iceland",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 803,
+    "name": "Telemicro",
+    "country": "Dominican Republic",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 804,
+    "name": "TRT Haber",
+    "country": "Turkey",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 805,
+    "name": "TV Finland",
+    "country": "Finland",
+    "lYear": 1986,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 806,
+    "name": "V",
+    "country": "Canada",
+    "lYear": 1986,
+    "dYear": "Ongoing"
   }
 ]
