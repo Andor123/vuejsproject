@@ -11,7 +11,7 @@
         <input type="text" class="form-control" name="name" id="name" v-model="name"/>
       </p>
       <p>
-        <label for="country">TV station country:</label><br>
+        <label for="country">TV station country/continent:</label><br>
         <input type="text" class="form-control" name="country" id="country" v-model="country"/>
       </p>
       <p>

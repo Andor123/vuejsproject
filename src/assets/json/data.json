@@ -5640,5 +5640,236 @@
     "country": "Canada",
     "lYear": 1986,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 807,
+    "name": "BBC TV Europe",
+    "country": "United Kingdom",
+    "lYear": 1987,
+    "dYear": 1991
+  },
+  {
+    "id": 808,
+    "name": "Cameroon Radio Television",
+    "country": "Cameroon",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 809,
+    "name": "Canadian Football Network",
+    "country": "Canada",
+    "lYear": 1987,
+    "dYear": 1990
+  },
+  {
+    "id": 810,
+    "name": "Channel America",
+    "country": "United States of America",
+    "lYear": 1987,
+    "dYear": 1996
+  },
+  {
+    "id": 811,
+    "name": "E!",
+    "country": "United States of America",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 812,
+    "name": "Eden TV",
+    "country": "Italy",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 813,
+    "name": "EM TV",
+    "country": "Papua New Guinea",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 814,
+    "name": "Europa 7",
+    "country": "Italy",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 815,
+    "name": "The Faith Channel",
+    "country": "United States of America",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 816,
+    "name": "Fox Sports Florida",
+    "country": "United States of America",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 817,
+    "name": "Knowledge TV",
+    "country": "United States of America",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 818,
+    "name": "M6",
+    "country": "France",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 819,
+    "name": "M6 Group",
+    "country": "France",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 820,
+    "name": "Medialaan",
+    "country": "Belgium",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 821,
+    "name": "MTV Europe",
+    "country": "Europe",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 822,
+    "name": "NBC Europe",
+    "country": "Europe",
+    "lYear": 1987,
+    "dYear": 2005
+  },
+  {
+    "id": 823,
+    "name": "Niños Cantores Televisión",
+    "country": "Venezuela",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 824,
+    "name": "Odeon 24",
+    "country": "Italy",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 825,
+    "name": "RIC TV",
+    "country": "Brazil",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 826,
+    "name": "RMITV",
+    "country": "Australia",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 827,
+    "name": "Root Sports Northwest",
+    "country": "United States of America",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 828,
+    "name": "RTL-TVI",
+    "country": "Belgium",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 829,
+    "name": "Shop at Home Network",
+    "country": "United States of America",
+    "lYear": 1987,
+    "dYear": 2008
+  },
+  {
+    "id": 830,
+    "name": "The Shopping Channel",
+    "country": "Canada",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 831,
+    "name": "Simaye Azadi",
+    "country": "Iran",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 832,
+    "name": "Sky Television",
+    "country": "New Zealand",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 833,
+    "name": "TeleTicino",
+    "country": "Switzerland",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 834,
+    "name": "Televicentro",
+    "country": "Honduras",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 835,
+    "name": "TFO",
+    "country": "Canada",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 836,
+    "name": "Travel Channel",
+    "country": "United States of America/United Kingdom",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 837,
+    "name": "TV3",
+    "country": "Norway",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 838,
+    "name": "TV3",
+    "country": "Sweden",
+    "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 839,
+    "name": "Unitel Bolivia",
+    "country": "Bolivia",
+    "lYear": 1987,
+    "dYear": "Ongoing"
   }
 ]

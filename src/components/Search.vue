@@ -8,7 +8,7 @@
       </p>
       <p>Search result:</p>
       <div v-for="station in filteredStations">
-        <p>{{ station.name }}</p>
+        <p>{{ station.name }}, {{ station.country }}</p>
       </div>
     </form>
   </div>
