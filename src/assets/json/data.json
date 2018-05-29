@@ -3509,7 +3509,7 @@
   {
     "id": 502,
     "name": "Radio Television of Vojvodina",
-    "country": "Serbia",
+    "country": "Vojvodina (Serbia)",
     "lYear": 1975,
     "dYear": "Ongoing"
   },
@@ -5870,6 +5870,321 @@
     "name": "Unitel Bolivia",
     "country": "Bolivia",
     "lYear": 1987,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 840,
+    "name": "America's Store",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": 2007
+  },
+  {
+    "id": 841,
+    "name": "Antena 3",
+    "country": "Spain",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 842,
+    "name": "Arkadiki Radiofonia Tileorasi",
+    "country": "Greece",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 843,
+    "name": "AT&T SportsNet Rocky Mountain",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 844,
+    "name": "ATV",
+    "country": "Russia",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 845,
+    "name": "Enlace Nicaragua",
+    "country": "Nicaragua",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 846,
+    "name": "ERT3",
+    "country": "Greece",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 847,
+    "name": "Family Channel",
+    "country": "Canada",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 848,
+    "name": "Florida Knowledge Network",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": 2011
+  },
+  {
+    "id": 849,
+    "name": "Fox Sports Sun",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 850,
+    "name": "Guangzhou Broadcasting Network",
+    "country": "China",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 851,
+    "name": "Imparja Television",
+    "country": "Australia",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 852,
+    "name": "Kindernet",
+    "country": "Netherlands",
+    "lYear": 1988,
+    "dYear": 2013
+  },
+  {
+    "id": 853,
+    "name": "Victory Television Network",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 854,
+    "name": "The Landscape Channel",
+    "country": "United Kingdom",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 855,
+    "name": "MétéoMédia",
+    "country": "Canada",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 856,
+    "name": "NDTV",
+    "country": "India",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 857,
+    "name": "New Evangelization Television",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 858,
+    "name": "Nick Jr.",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 859,
+    "name": "Noticias ECO",
+    "country": "Mexico",
+    "lYear": 1988,
+    "dYear": 2001
+  },
+  {
+    "id": 860,
+    "name": "NPO 3",
+    "country": "Netherlands",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 861,
+    "name": "Oregon Sports Network",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 862,
+    "name": "Planète+",
+    "country": "France",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 863,
+    "name": "Prime Network",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": 1996
+  },
+  {
+    "id": 864,
+    "name": "Radiotelevisió Valenciana",
+    "country": "Valencian Community (Spain)",
+    "lYear": 1988,
+    "dYear": 2013
+  },
+  {
+    "id": 865,
+    "name": "Radio y Televisión de Andalucía",
+    "country": "Andalusia (Spain)",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 866,
+    "name": "Rai Ladinia",
+    "country": "Italy",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 867,
+    "name": "Socutera",
+    "country": "Netherlands",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 868,
+    "name": "SuperSport",
+    "country": "South Africa",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 869,
+    "name": "SVT World",
+    "country": "Sweden",
+    "lYear": 1988,
+    "dYear": 2017
+  },
+  {
+    "id": 870,
+    "name": "Tele 5",
+    "country": "Germany",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 871,
+    "name": "Télé Lyon Métropole",
+    "country": "France",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 872,
+    "name": "Televen",
+    "country": "Venezuela",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 873,
+    "name": "TNT",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 874,
+    "name": "TV 2",
+    "country": "Denmark",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 875,
+    "name": "TV 100",
+    "country": "Greece",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 876,
+    "name": "TV5",
+    "country": "Canada",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 877,
+    "name": "TVNorge",
+    "country": "Norway",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 878,
+    "name": "National Broadcasting Services of Thailand",
+    "country": "Thailand",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 879,
+    "name": "Vision Interfaith Satellite Network",
+    "country": "United States of America",
+    "lYear": 1988,
+    "dYear": 1996
+  },
+  {
+    "id": 880,
+    "name": "VisionTV",
+    "country": "Canada",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 881,
+    "name": "Vrak",
+    "country": "Canada",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 882,
+    "name": "The Weather Network",
+    "country": "Canada",
+    "lYear": 1988,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 883,
+    "name": "Yle Fem",
+    "country": "Finland",
+    "lYear": 1988,
+    "dYear": 2007
+  },
+  {
+    "id": 884,
+    "name": "YTV",
+    "country": "Canada",
+    "lYear": 1988,
     "dYear": "Ongoing"
   }
 ]
