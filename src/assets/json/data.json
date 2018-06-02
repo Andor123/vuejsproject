@@ -6746,5 +6746,460 @@
     "country": "Belgium",
     "lYear": 1989,
     "dYear": "Ongoing"
+  },
+  {
+    "id": 965,
+    "name": "902 TV",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": 2013
+  },
+  {
+    "id": 966,
+    "name": "Acheloos TV",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 967,
+    "name": "Action 24",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 968,
+    "name": "All-Russia State Television and Radio Broadcasting Company",
+    "country": "Russia",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 969,
+    "name": "Alliance for Community Media",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 970,
+    "name": "Alter Channel",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": 2013
+  },
+  {
+    "id": 971,
+    "name": "AMI-audio",
+    "country": "Canada",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 972,
+    "name": "Asti Radio Television",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 973,
+    "name": "AZN Television",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": 2008
+  },
+  {
+    "id": 974,
+    "name": "The Big Channel",
+    "country": "Argentina",
+    "lYear": 1990,
+    "dYear": 2001
+  },
+  {
+    "id": 975,
+    "name": "Blue Sky",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 976,
+    "name": "Canal+",
+    "country": "Spain",
+    "lYear": 1990,
+    "dYear": 2016
+  },
+  {
+    "id": 977,
+    "name": "DD Meghalaya",
+    "country": "India",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 978,
+    "name": "EBC News",
+    "country": "Taiwan",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 979,
+    "name": "Educational Broadcasting System",
+    "country": "South Korea",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 980,
+    "name": "Eir Sport",
+    "country": "Republic of Ireland",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 981,
+    "name": "Empire Sports Network",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": 2005
+  },
+  {
+    "id": 982,
+    "name": "Établissement de la radiodiffusion-télévision tunisienne",
+    "country": "Tunisia",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 983,
+    "name": "Extra Channel",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 984,
+    "name": "Fernsehen aus Berlin",
+    "country": "Germany",
+    "lYear": 1990,
+    "dYear": 2009
+  },
+  {
+    "id": 985,
+    "name": "Flamingo Televisión",
+    "country": "Venezuela",
+    "lYear": 1990,
+    "dYear": 2000
+  },
+  {
+    "id": 986,
+    "name": "Fox Sports South",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 987,
+    "name": "Galaxy",
+    "country": "United Kingdom",
+    "lYear": 1990,
+    "dYear": 1990
+  },
+  {
+    "id": 988,
+    "name": "Ha!",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": 1991
+  },
+  {
+    "id": 989,
+    "name": "Hartford Public Access Television",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 990,
+    "name": "Hellenic TV",
+    "country": "United Kingdom",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 991,
+    "name": "Slika Hrvatske",
+    "country": "Croatia",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 992,
+    "name": "Jimmy",
+    "country": "France",
+    "lYear": 1990,
+    "dYear": 2015
+  },
+  {
+    "id": 993,
+    "name": "MBC 2",
+    "country": "Mauritius",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 994,
+    "name": "Mega",
+    "country": "Chile",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 995,
+    "name": "MNCTV",
+    "country": "Indonesia",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 996,
+    "name": "The Movie Channel",
+    "country": "United Kingdom",
+    "lYear": 1990,
+    "dYear": 1997
+  },
+  {
+    "id": 997,
+    "name": "MTV Brasil",
+    "country": "Brazil",
+    "lYear": 1990,
+    "dYear": 2013
+  },
+  {
+    "id": 998,
+    "name": "Orange County Newschannel",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": 2001
+  },
+  {
+    "id": 999,
+    "name": "The Power Station",
+    "country": "United Kingdom",
+    "lYear": 1990,
+    "dYear": 1991
+  },
+  {
+    "id": 1000,
+    "name": "Prime Sports",
+    "country": "India",
+    "lYear": 1990,
+    "dYear": 1993
+  },
+  {
+    "id": 1001,
+    "name": "Prime Sports Upper Midwest",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": 1995
+  },
+  {
+    "id": 1002,
+    "name": "PTV4",
+    "country": "Finland",
+    "lYear": 1990,
+    "dYear": 1997
+  },
+  {
+    "id": 1003,
+    "name": "Queens Public Television",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1004,
+    "name": "Radio y Televisión Martí",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1005,
+    "name": "RTV Politika",
+    "country": "Serbia",
+    "lYear": 1990,
+    "dYear": 2010
+  },
+  {
+    "id": 1006,
+    "name": "SCTV",
+    "country": "Indonesia",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1007,
+    "name": "The Second Authority for Television and Radio",
+    "country": "Israel",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1008,
+    "name": "Setanta Sports",
+    "country": "Republic of Ireland",
+    "lYear": 1990,
+    "dYear": 2016
+  },
+  {
+    "id": 1009,
+    "name": "Sistema Nacional de Televisión",
+    "country": "Nicaragua",
+    "lYear": 1990,
+    "dYear": 1997
+  },
+  {
+    "id": 1010,
+    "name": "Sky Movies",
+    "country": "New Zealand",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1011,
+    "name": "Sky Sport",
+    "country": "New Zealand",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1012,
+    "name": "Spectrum News Rochester",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1013,
+    "name": "Sport 5",
+    "country": "Israel",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1014,
+    "name": "SportsChannel Philadelphia",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": 1997
+  },
+  {
+    "id": 1015,
+    "name": "Star Television Network",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": 1991
+  },
+  {
+    "id": 1016,
+    "name": "Star TV",
+    "country": "Turkey",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1017,
+    "name": "Super B",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1018,
+    "name": "Tempo TV",
+    "country": "Greece",
+    "lYear": 1990,
+    "dYear": 2003
+  },
+  {
+    "id": 1019,
+    "name": "TRT 4",
+    "country": "Turkey",
+    "lYear": 1990,
+    "dYear": 2011
+  },
+  {
+    "id": 1020,
+    "name": "TRT International",
+    "country": "Turkey",
+    "lYear": 1990,
+    "dYear": 2009
+  },
+  {
+    "id": 1021,
+    "name": "TV 2/Østjylland",
+    "country": "Denmark",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1022,
+    "name": "TV Asia",
+    "country": "India",
+    "lYear": 1990,
+    "dYear": 1995
+  },
+  {
+    "id": 1023,
+    "name": "TV4",
+    "country": "Sweden",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1024,
+    "name": "TV4 Norge",
+    "country": "Norway",
+    "lYear": 1990,
+    "dYear": 1992
+  },
+  {
+    "id": 1025,
+    "name": "TV23",
+    "country": "United States of America",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1026,
+    "name": "TVP3 Rzeszów",
+    "country": "Poland",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1027,
+    "name": "TVR Cluj",
+    "country": "Romania",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1028,
+    "name": "VTV2",
+    "country": "Vietnam",
+    "lYear": 1990,
+    "dYear": "Ongoing"
+  },
+  {
+    "id": 1029,
+    "name": "Zendtijd voor Politieke Partijen",
+    "country": "Netherlands",
+    "lYear": 1990,
+    "dYear": "Ongoing"
   }
 ]
